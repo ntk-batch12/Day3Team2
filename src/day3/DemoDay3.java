@@ -6,5 +6,8 @@ public class DemoDay3 {
 		
 		System.out.println("Day 3 Team 2");
 		
+		System.out.println("We are champions");
+		
+		
 	}
 }
