@@ -39,7 +39,8 @@ public class DemoDay3 {
 	public static void numbers() {
 		System.out.println("Team two ");
 	}
-
+int a = 10;
+int b = 20;
 
 
 }
