@@ -25,6 +25,7 @@ public class DemoDay3 {
 		int b = 20;
 		
 		
+
 		if(a==b) {
 			System.out.println("equals");
 		} else {
@@ -32,7 +33,5 @@ public class DemoDay3 {
 		}
 		
 	}
- 
-	//Team 2
  
 }
