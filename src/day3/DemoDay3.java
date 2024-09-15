@@ -53,5 +53,8 @@ private void syso() {
 public static void teamTwo() {
 	System.out.println("Team two ");
 
+	
+	int a = 10;
+	int b = 20;
 }
 }
