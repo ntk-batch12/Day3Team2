@@ -34,6 +34,8 @@ public class DemoDay3 {
 		int abc = 10;
 
 		String animal = "dog";
+		
+		String name = "Justyna";
 	}
 
 	public static void numbers() {
@@ -49,3 +51,5 @@ int b = 20;
 
 
 }
+
+
