@@ -42,6 +42,16 @@ public class DemoDay3 {
 
 	String Team ="Two";
 
+	public static void main() {
+		
+		int a = 10;
+		int b = 13;
+		int c = 14; 
+		int d = 15;  
+		int e = 16;
+		
+		
+	}
 
 int a = 10;
 int b = 20;
