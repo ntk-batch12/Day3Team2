@@ -50,6 +50,8 @@ private void syso() {
 	String str ="something";
 }
 
+public static void teamTwo() {
+	System.out.println("Team two ");
 
-
+}
 }
