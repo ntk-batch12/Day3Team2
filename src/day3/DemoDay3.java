@@ -65,8 +65,7 @@ public static void teamTwo() {
 	int b = 20;
 	
 	System.out.println("MA");
-	int a = 10;
-	int b = 20;
+	 
 }
 public static void team11() {
 	System.out.println("Team two ");
