@@ -45,6 +45,9 @@ public class DemoDay3 {
 		
 		int a = 10;
 		int b = 13;
+		int c = 14; 
+		int d = 15;
+		
 		
 	}
 
