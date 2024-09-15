@@ -31,7 +31,10 @@ public class DemoDay3 {
 		} else {
 			System.out.println("not equals");
 		}
-		
+	}
+		public static void numbers () {
+			System.out.println("Team two ");
+		}
 	}
  
-}
+
