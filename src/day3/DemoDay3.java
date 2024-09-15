@@ -18,4 +18,8 @@ public class DemoDay3 {
 		
 		System.out.println( "Team Two are the best");
 }
+	public static void Display() {
+		
+		System.out.println("MA");
+	}
 }
