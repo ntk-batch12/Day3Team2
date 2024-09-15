@@ -41,5 +41,9 @@ public class DemoDay3 {
 	}
 
 
+	public static void main() {
+		
+		
+	}
 
 }
