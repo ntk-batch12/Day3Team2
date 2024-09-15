@@ -32,6 +32,13 @@ public class DemoDay3 {
 			System.out.println("not equals");
 		}
 		
+		
+		int abc = 10;
+		
+		String animal = "dog";
+		
+		
+		
 	}
  
 }
