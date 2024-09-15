@@ -24,6 +24,10 @@ public class DemoDay3 {
 		int a = 10;
 		int b = 20;
 		
+		
+		String firstName= "john";
+		String lastName= "cena";
+
 	}
  
 	//Team 2
