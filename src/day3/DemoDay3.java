@@ -66,5 +66,9 @@ public static void teamTwo() {
 	
 	int a = 10;
 	int b = 20;
+	
+	System.out.println("MA");
+	int a = 10;
+	int b = 20;
 }
 }
