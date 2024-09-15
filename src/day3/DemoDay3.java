@@ -34,8 +34,6 @@ public class DemoDay3 {
 		int abc = 10;
 
 		String animal = "dog";
-		
-		String name = "Justyna";
 	}
 
 	public static void numbers() {
@@ -45,11 +43,13 @@ public class DemoDay3 {
 	String Team ="Two";
 
 
-int a = 10;
-int b = 20;
+private void syso() {
+	String str ="something";
+}
 
-
+public static void teamTwo() {
+	System.out.println("Team two ");
 
 }
 
-
+}
