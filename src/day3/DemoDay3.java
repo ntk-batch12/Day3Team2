@@ -39,7 +39,12 @@ public class DemoDay3 {
 	public static void numbers() {
 		System.out.println("Team two ");
 	}
+
 	String Team ="Two";
+
+
+int a = 10;
+int b = 20;
 
 
 
