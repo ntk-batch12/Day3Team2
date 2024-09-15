@@ -43,6 +43,8 @@ public class DemoDay3 {
 
 	public static void main() {
 		
+		int a = 10;
+		int b = 13;
 		
 	}
 
