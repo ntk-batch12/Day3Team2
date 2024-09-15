@@ -24,6 +24,13 @@ public class DemoDay3 {
 		int a = 10;
 		int b = 20;
 		
+		
+		if(a==b) {
+			System.out.println("equals");
+		} else {
+			System.out.println("not equals");
+		}
+		
 	}
  
 	//Team 2
