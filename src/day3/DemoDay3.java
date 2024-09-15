@@ -42,6 +42,16 @@ public class DemoDay3 {
 
 	String Team ="Two";
 
+	public static void main() {
+		
+		int a = 10;
+		int b = 13;
+		int c = 14; 
+		int d = 15;  
+		int e = 16;
+		
+		
+	}
 
 private void syso() {
 	String str ="something";
@@ -50,6 +60,16 @@ private void syso() {
 public static void teamTwo() {
 	System.out.println("Team two ");
 
+	
+	int a = 10;
+	int b = 20;
+	
+	System.out.println("MA");
+	int a = 10;
+	int b = 20;
+}
+public static void team11() {
+	System.out.println("Team two ");
 }
 
 }
